@@ -204,5 +204,5 @@ This will not be a model, but rather will be used as the `reaction` field's subd
 * `DELETE` to pull and remove a reaction by the reaction's `reactionId` value
 
 ## Deployement: 
-link to video: 
+link to video: https://www.loom.com/share/167316d2d3204f49856359deaad9ca34?sid=f6deca08-4723-4865-9ec1-3bd8629d6994 
 Github repository: https://github.com/elihawkins123/Social-network-API 
